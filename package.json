@@ -7,5 +7,5 @@
   // ... vos autres scripts (start, build, etc.)
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
-},
+  }
 }
